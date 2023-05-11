@@ -6,7 +6,7 @@ With the modern business world transforming from intuition based decisions to mo
 
 On the personal side, I am an amateur author, having published a number of short stories on a variety of platforms. I believe that people benefit from having a creative outlet, and mine allows me to become a better data driven storyteller and presenter, skills that I plan on leveraging in my professional career as well!
 
-If you wish to contact me, I am always available via email at: gupta.roha@northeastern.edu
+If you wish to contact me, I am always available via email at: rohanmgupta97@gail.com
 
 <!--
 **Rohan10Gupta/Rohan10Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
