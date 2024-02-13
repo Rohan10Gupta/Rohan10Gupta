@@ -1,4 +1,4 @@
-### Hello there!:wave:
+### Hello there! :wave:
 
 I am Rohan Gupta, a Data Analyst in Boston. I am passionate about applying Data Science to drive high level decision making. My varied background in Data Science, Electronics, and Business Management gives me a unique insight into using high level Data Mining techniques for creating business value out of raw data. In my curriculum at Northeastern University, I was exposed to all facets of Data Driven Decision Making, with equal emphasis on both aspects of this field. Courses like Data Mining, and Data Computation prepared me for extracting maximum value out of data, while management driven courses like Pricing and Revenue Management, and Economic Decision Making allowed me to use insights from data in a real world setting. 
 
